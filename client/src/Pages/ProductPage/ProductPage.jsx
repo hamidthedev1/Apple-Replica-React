@@ -8,7 +8,7 @@ function ProductPage() {
   const { productID } = useParams();
   // console.log(productID);
   useEffect(() => {
-    fetch("/iphone.json") //no semicolon
+    fetch("https://apple-replica-backend.onrender.com") //no semicolon
       .then((res) => res.json())
       .then((data) => {
         const productList = data.products;

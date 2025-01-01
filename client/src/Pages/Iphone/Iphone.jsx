@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 function Iphone() {
   const [products, setProducts] = useState([]);
   useEffect(() => {
-    fetch("/iphone.json")
+    fetch("https://apple-replica-backend.onrender.com")
       .then((res) => res.json())
       .then((data) => {
         setProducts(() => data.products);
-        //data.products => data from json 
+        //data.products => data from json
       })
       .catch((err) => console.log("Error: Unable to fetch!!!"));
     },[])
