@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "iPhone 14",
+      "product_url": "iPhone14",
+      "description_id": 1,
+      "product_brief_description": "Pro Cameras. Pro display. Pro performance.",
+      "product_description": "A transformative triple-camera system that adds to...",
+      "product_img": "https://tinyurl.com/5xpbfpb5",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-14",
+      "price_id": 1,
+      "starting_price": "$599",
+      "price_range": "From $599 or $24.95/mo."
+    },
+    {
+      "product_id": 2,
+      "product_name": "iPhone 15",
+      "product_url": "iPhone15",
+      "description_id": 2,
+      "product_brief_description": "Your new iPhone awaits. Make it yours.",
+      "product_description": "Your new iPhone comes with so much more.",
+      "product_img": "https://tinyurl.com/2js9c5xf",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "price_id": 2,
+      "starting_price": "$699",
+      "price_range": "From $699 or $29.12/mo."
+    },
+    {
+      "product_id": 3,
+      "product_name": "iPhone 16",
+      "product_url": "iPhone 16",
+      "description_id": 3,
+      "product_brief_description": "Hello, Apple intelligence.\r\nAI-opening possibilites.",
+      "product_description": "iPhone 16 is built for Apple Intelligence, the personal intelligence system that helps you write, express yourself, and get things done effortlessly. ",
+      "product_img": "https://www.apple.com/v/iphone-16/c/images/overview/design/all_colors__flhn5cmb1t26_large.jpg",
+      "product_link": "https://www.apple.com/iphone-16/",
+      "price_id": 3,
+      "starting_price": "$799",
+      "price_range": "From $799 or $33.29/mo."
+    }
+  ]
+}
